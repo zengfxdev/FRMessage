@@ -1,0 +1,5 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+target "FRMessage" do
+pod 'Masonry'
+end
